@@ -1,0 +1,9 @@
+.component-app {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+
+  margin: 20vh auto;
+
+  width: 600px;
+}
